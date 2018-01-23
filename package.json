@@ -53,10 +53,8 @@
     "yarn": "^0.27.5"
   },
   "keywords": [
-    "react"
-    "react-dom": "16"
-  }
-  ]
+    "react",
+    "unit test"
   ],
   "jest": {
     "unmockedModulePathPatterns": [
